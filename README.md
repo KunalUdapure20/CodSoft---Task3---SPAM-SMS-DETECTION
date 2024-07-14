@@ -6,6 +6,8 @@
 
 
 ## Project Overview: SMS Spam Detection
+![d38cdb2d-a594-424c-9d6f-835a188eafbf](https://github.com/user-attachments/assets/a82eeec4-2a5e-4bfe-9727-8b9216c14e03)
+
 
 ### Project Introduction
 The SMS Spam Detection project aims to develop a machine learning model to identify and filter out spam messages from legitimate ones. This can help in reducing unwanted messages and improving user experience. 

@@ -38,7 +38,7 @@ A typical dataset for SMS spam detection includes:
    - Naive Bayes
    - Support Vector Machines (SVM)
    - Random Forest
-   - Gradient Boosting
+   - Support Vector Machine
    - Multilayer Perceptron (MLP)
 2. **Training**: Train models using the processed dataset.
 3. **Evaluation**: Evaluate models using metrics like accuracy, precision, recall, F1-score, and confusion matrix.
@@ -60,7 +60,7 @@ A typical dataset for SMS spam detection includes:
 - **Libraries for Data Processing**: Pandas, NumPy
 - **Libraries for Text Processing**: NLTK, SpaCy
 - **Machine Learning Libraries**: Scikit-learn, TensorFlow, Keras
-- **Model Deployment**: Streamlit, Flask/Django for API, Docker for containerization
+- **Model Deployment**: Streamlit
 
 ### Example Workflow
 1. **Data Loading**: Load the SMS spam dataset.

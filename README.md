@@ -59,7 +59,7 @@ A typical dataset for SMS spam detection includes:
 - **Programming Languages**: Python
 - **Libraries for Data Processing**: Pandas, NumPy
 - **Libraries for Text Processing**: NLTK, SpaCy
-- **Machine Learning Libraries**: Scikit-learn, TensorFlow, Keras
+- **Machine Learning Libraries**: Scikit-learn
 - **Model Deployment**: Streamlit
 
 ### Example Workflow
